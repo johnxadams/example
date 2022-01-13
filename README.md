@@ -1,4 +1,4 @@
-###### john adams web management with ==markdown==
+###### john adams gitmanagement with ==markdown==
 
 ---
 
@@ -28,14 +28,7 @@ After I clone a project out of gitHub, the first thing to do is to rename the re
 
 ---
 
-<style>
-   p
- {
-  font-size: 1rem;
-  margin-bottom: 1.3rem;
-  color: darkred
-}
-    </style>
+
 
 _<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>_
 
