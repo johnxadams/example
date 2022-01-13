@@ -3,13 +3,13 @@
 ---
 
 A simple git rule says: <br>
-After I clone a project out of gitHub, the first thing to do is to rename the remote which is **origin**. How do I rename and what's the new name going to be?
+After git cloning a project out of cloud, the first thing to do renaming the remote which is **origin**. How do I rename and what's the new name going to be?
 
 - [x] git remote rename origin upstream
 - [ ] ~~git add remote origin upperstream~~
-- [ ] ~~git super remane main origin~~
+- [ ] ~~git super rename main origin~~
 
-#### Here are a coupls of git commands
+#### Here are a couple of git commands
 
 | syntax                                                             | meaning                                                                        |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
