@@ -3,7 +3,7 @@
 ---
 
 A simple git rule says: <br>
-After I pull a project out of gitHub, the first thing to do is to rename its remote which is **origin**. How do I rename and what's the new name going to be?
+After I clone a project out of gitHub, the first thing to do is to rename the remote which is **origin**. How do I rename and what's the new name going to be?
 
 - [x] git remote rename origin upstream
 - [ ] ~~git add remote origin upperstream~~
