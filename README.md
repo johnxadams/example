@@ -22,13 +22,15 @@ After git cloning a project out of cloud, the first thing to do renaming the rem
 | git branch _super_                                                 | make a new branch, name it _super_                                             |
 | git checkout _super_                                               | move to branch named _super_                                                   |
 | git checkout -b _super_                                            | make a new branch, name it _super_, then move to _super_                       |
+| git brand -d _super_                                               | remove branch named _super_                                                    |
+| git remote -v                                                      | show me all the remote-project-connections                                     |
 | ` git remote add origin git@github.com:johnxadams/projectName.git` | builds a bridge named **origin** from local _(user-pc)_ to cloud _(gitHub)_    |
 | git remote remove origin                                           | remove origin                                                                  |
 | git push -u origin main (special case, only once)                  | making sure the bridge is between main(local) and main(cloud), -u means update |
+| git status                                                         | what's the current status of modification?                                     |
+| git log                                                            | Show me the project-history                                                    |
 
 ---
-
-
 
 _<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>_
 
