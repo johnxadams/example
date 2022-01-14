@@ -38,7 +38,7 @@ _<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy ei
 
 1. Starting with the: echo "_line number one!_" >> `README.md`
 1. git init
-1. followed by: git add `README.md` && git commit -m "what I've done"
+1. followed by: git add `README.md` && git commit -m "what I've done so far"
 1. let rename the branch: git branch -M main
-1. now lets build the path: git remote add origin `git@github.com:johnxadams/example.git`
+1. now lets build the path: git remote add origin `git@github.com:johnxadams/johnxadams.gitmanagement.git`
 1. now lets safe the path with: git push -u origin main
